@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 /* directives */
-@layer components {
+/* @layer components {
   html {
     @apply bg-gray-600;
   }
   .btn {
     @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
   }
-}
+} */
 
