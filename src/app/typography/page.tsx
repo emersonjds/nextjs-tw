@@ -19,6 +19,12 @@ export default function Typhografy() {
       <h4 className="text-base">Texto 4</h4>
       <p className="text-sm">Paragraph 1</p>
       <p className="text-xs">Paragraph 2</p>
+
+      <p className="truncate">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium,
+        nam sit. Rem dicta quos saepe amet esse recusandae est optio corrupti?
+        Temporibus, eveniet ipsam! Ipsum ducimus fuga omnis dolor eaque.
+      </p>
     </div>
   );
 }
