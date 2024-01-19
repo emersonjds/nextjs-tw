@@ -9,15 +9,19 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#1a202c",
-        secondary: "#2d3748",
-        accent: "#e2e8f0",
-        highlight: "#edf2f7",
-        muted: "#718096",
-        success: "#48bb78",
-        warning: "#f6ad55",
-        danger: "#e53e3e",
-        info: "#63b3ed",
+        vuejs: "#41B883",
+        primary: {
+          100: "#F0F4FF",
+          200: "#D9E2FF",
+          300: "#A6BCFF",
+          400: "#598BFF",
+          500: "#3366FF",
+          600: "#274BDB",
+          700: "#1A34B8",
+          800: "#102694",
+          900: "#091C7A",
+        },
+        }
       },
       }
     },
