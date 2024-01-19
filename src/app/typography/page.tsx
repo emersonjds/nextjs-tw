@@ -1,7 +1,7 @@
 export default function Typhografy() {
   return (
     <div>
-      <h1 className="text-2xl underline decoration-red-500 outline-double">
+      <h1 className="text-2xl underline decoration-red-500 decoration-double">
         Texto 1
       </h1>
 
