@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* directives */
 @layer components {
   html {
     @apply bg-gray-600;
