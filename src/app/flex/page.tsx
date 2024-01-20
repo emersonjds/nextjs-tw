@@ -21,21 +21,11 @@ export default function Flex() {
       </div> */}
 
       {/* FLEX WRAP */}
-      <div className="flex flex-col md:flex-row">
-        <div className="flex flex-wrap w-full bg-pink-400 p-5 gap-3">
-          <div className="border-solid border-2 w-32 grow">1</div>
-          <div className="border-solid border-2 w-32 grow">2</div>
-          <div className="border-solid border-2 w-32 grow">3</div>
-          <div className="border-solid border-2 w-32 grow">4</div>
-          <div className="border-solid border-2 w-32 grow">5</div>
-          <div className="border-solid border-2 w-32 grow">2</div>
-          <div className="border-solid border-2 w-32 grow">3</div>
-          <div className="border-solid border-2 w-32 grow">4</div>
-          <div className="border-solid border-2 w-32 grow">5</div>
-          <div className="border-solid border-2 w-32 grow">2</div>
-          <div className="border-solid border-2 w-32 grow">3</div>
-          <div className="border-solid border-2 w-32 grow">4</div>
-          <div className="border-solid border-2 w-32 grow">5</div>
+      <div className="flex flex-col md:flex-row h-screen">
+        <div className="flex flex-wrap w-full bg-pink-400 p-5 gap-3 justify-center items-center">
+          <div className="border-solid border-2 w-32 h-32">1</div>
+          <div className="border-solid border-2 w-32 h-32">2</div>
+          <div className="border-solid border-2 w-32 h-32">3</div>
         </div>
       </div>
     </>
