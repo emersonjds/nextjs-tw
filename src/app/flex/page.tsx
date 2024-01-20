@@ -11,12 +11,31 @@ export default function Flex() {
         <div className="h-1/2 w-1/2 bg-yellow-400 border-4 flex-none">3</div>
       </div> */}
 
-      <div className="flex flex-col h-screen w-full bg-blue-400 p-5">
+      {/* <div className="flex flex-col h-screen w-full bg-blue-400 p-5">
         <div>Header</div>
         <div className="flex flex-col md:flex-row bg-green-500 p-5 h-full w-full gap-4">
           <div className="bg-orange-600 basis-2/12">Sidebar</div>
           <div className="bg-pink-500 basis-8/12"> Main Content</div>
           <div className="bg-indigo-600 basis-2/12">Sidebar 2</div>
+        </div>
+      </div> */}
+
+      {/* FLEX WRAP */}
+      <div className="flex flex-col md:flex-row">
+        <div className="flex flex-wrap w-full bg-pink-400 p-5 gap-3">
+          <div className="border-solid border-2 w-32 grow">1</div>
+          <div className="border-solid border-2 w-32 grow">2</div>
+          <div className="border-solid border-2 w-32 grow">3</div>
+          <div className="border-solid border-2 w-32 grow">4</div>
+          <div className="border-solid border-2 w-32 grow">5</div>
+          <div className="border-solid border-2 w-32 grow">2</div>
+          <div className="border-solid border-2 w-32 grow">3</div>
+          <div className="border-solid border-2 w-32 grow">4</div>
+          <div className="border-solid border-2 w-32 grow">5</div>
+          <div className="border-solid border-2 w-32 grow">2</div>
+          <div className="border-solid border-2 w-32 grow">3</div>
+          <div className="border-solid border-2 w-32 grow">4</div>
+          <div className="border-solid border-2 w-32 grow">5</div>
         </div>
       </div>
     </>
