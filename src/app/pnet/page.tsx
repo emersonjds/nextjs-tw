@@ -11,7 +11,7 @@ export default function Pnet() {
                     >
                         Esquerda
                     </div>
-                    {/* Direita */}
+
                     <div
                         className="h-full w-full md:w-2/3 lg:w-2/3 bg-yellow-500"
                     >
