@@ -22,7 +22,7 @@ export default function Flex() {
 
       {/* FLEX WRAP */}
       <div className="flex flex-col md:flex-row h-screen">
-        <div className="flex flex-wrap w-full bg-pink-400 p-5 gap-3 justify-center items-center">
+        <div className="flex flex-wrap w-full bg-pink-400 p-5 gap-3 justify-around items-center">
           <div className="border-solid border-2 w-32 h-32">1</div>
           <div className="border-solid border-2 w-32 h-32">2</div>
           <div className="border-solid border-2 w-32 h-32">3</div>
