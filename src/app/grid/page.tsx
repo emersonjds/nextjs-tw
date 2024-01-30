@@ -17,6 +17,23 @@ export default function Grid() {
           </div>
           1
         </div>
+
+        <hr className="my-4" />
+
+        <div className="grid grid-cols-6 gap-4">
+          <div className="bg-orange-400 col-start-2 col-span-4 p-6">
+            1
+          </div>
+          <div className="col-start-1 bg-orange-400 p-6">
+            2
+          </div>
+          <div className="bg-orange-400 p-6">
+            3
+          </div>
+          <div className="col-start-1 bg-orange-400 p-6">
+            4
+          </div>
+        </div>
       </div>
     </div>
   );
