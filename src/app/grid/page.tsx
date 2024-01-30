@@ -14,24 +14,7 @@ export default function Grid() {
         <div className="p-4 bg-blue-500">
           1
         </div>
-        <div className="p-4 bg-blue-500 col-span-3">
-          1
-        </div>
-        <div className="p-4 bg-blue-500">
-          1
-        </div>
-        <div className="p-4 bg-blue-500">
-          1
-        </div>
-        <div className="p-4 bg-blue-500">
-          1
-        </div>
-        <div className="p-4 bg-blue-500">
-          1
-        </div>
-        <div className="p-4 bg-blue-500">
-          1
-        </div>
+        1
       </div>
     </div>
   );
