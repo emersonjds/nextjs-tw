@@ -3,7 +3,7 @@ export default function Page() {
     <div className="bg-[#f07687]">
       <h1
         className="
-      text-black
+        text-black
         sm:text-4xl
         md:text-6xl
         lg:text-8xl
