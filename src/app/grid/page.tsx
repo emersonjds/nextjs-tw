@@ -3,7 +3,6 @@ export default function Grid() {
     <div className="h-screen bg-black p-4 w-screen">
       <div className="p-2 border-2 border-red-50 h-full">
         <div className="grid grid-row-2 grid-flow-col gap-2 p-5 border-2 border-blue-50 h-full">
-         {/* gap-2 p-5 border-2 border-blue-50 h-full"> */}
           <div className="p-4 bg-blue-200"></div>
           <div className="p-4 bg-blue-200"></div>
           <div className="p-4 bg-blue-200"></div>
