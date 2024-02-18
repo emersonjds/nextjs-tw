@@ -1,7 +1,9 @@
 export default function Layout() {
   return (
-    <div>
-      <h1>Layout</h1>
+    <div className="Parent h-screen bg-slate-900 text-white">
+      <div className="container">
+        <p>Hello</p>
+      </div>
     </div>
   );
 }
