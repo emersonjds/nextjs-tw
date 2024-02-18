@@ -1,7 +1,7 @@
 export default function Layout() {
   return (
     <div className="Parent h-screen bg-slate-900 text-white">
-      <div className="container mx-auto h-screen bg-red-500 columns-3">
+      <div className="container mx-auto bg-red-500 columns-3">
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt voluptates voluptatibus possimus maxime unde nulla, cumque quam id nam inventore illo fugit fugiat? Ipsam quaerat doloribus beatae? At, saepe beatae.
         </p>
