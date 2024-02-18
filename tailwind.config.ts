@@ -11,14 +11,12 @@ const config: Config = {
       container: {
         center: true,
       },
-
       screens: {
         sm: '480px',
         md: '768px',
         lg: '976px',
         xl: '1440px',
       },
-
       colors: {
         vuejs: '#41B883',
         primary: {
