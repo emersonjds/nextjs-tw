@@ -12,6 +12,12 @@ export default function Grid2() {
           <div className="bg-slate-700 p-4">7</div>
           <div className="bg-slate-700 p-4">8</div>
           <div className="bg-slate-700 p-4">9</div>
+          <div className="bg-slate-700 p-4">7</div>
+          <div className="bg-slate-700 p-4">8</div>
+          <div className="bg-slate-700 p-4">9</div>
+          <div className="bg-slate-700 p-4">7</div>
+          <div className="bg-slate-700 p-4">8</div>
+          <div className="bg-slate-700 p-4">9</div>
         </div>
       </div>
     </div>
