@@ -1,6 +1,6 @@
 export default function Grid2() {
   return (
-    <div className="Parent h-screen bg-slate-900 p-4 text-white">
+    <div className="Parent h-screen bg-slate-700 p-4 text-white">
       <div className="container mx-auto">
         <div className="grid grid-flow-row-dense grid-cols-4 grid-rows-4 gap-4">
           <div className="col-span-2 rounded-lg bg-slate-700 p-4">1</div>
