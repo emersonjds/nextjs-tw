@@ -5,7 +5,6 @@ export default function Space() {
         <div className="w-1/5 bg-green-400">Navbar</div>
         <div className="w-4/5 bg-red-500">Content</div>
       </div> */}
-
       <div className="flex min-h-screen space-x-4">
         <div className="w-1/5 bg-green-400">Navbar</div>
         <div className="w-4/5 bg-red-500">Content</div>
