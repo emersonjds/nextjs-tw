@@ -10,8 +10,7 @@ export default function Typhografy() {
           text-2xl
           underline
           decoration-wavy
-          decoration-blue-500
-        "
+          decoration-blue-500"
       >
         Texto 2
       </h2>
