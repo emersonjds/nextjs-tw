@@ -1,6 +1,6 @@
 export default function Layout() {
   return (
-    <div className="Parent h-screen bg-slate-900 text-white">
+    <div className="h-screen bg-slate-900 text-white">
       <div className="container bg-red-500 columns-sm	h-screen">
         <img
           src="https://super.abril.com.br/wp-content/uploads/2017/06/qual-a-diferenc3a7a-entre-tufc3a3o-tornado-furacc3a3o-e-ciclone.png"
